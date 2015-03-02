@@ -34,7 +34,7 @@
 
         <script src="../js/vendor/jquery-1.9.0.min.js"></script>
         <script src="../js/plugins.js"></script>
-        <script src="http://datejs.googlecode.com/svn/trunk/build/date.js"></script>
+<!--         <script src="http://datejs.googlecode.com/svn/trunk/build/date.js"></script> -->
         <script src="http://miemiedev.github.com/mmGrid/src/mmGrid.js"></script>
         <script src="http://miemiedev.github.com/mmGrid/src/mmPaginator.js"></script>
         <script src="../js/account/userList.js"></script>
